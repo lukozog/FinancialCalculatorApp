@@ -1,4 +1,4 @@
-FinancialCalculatorApp
+# FinancialCalculatorApp
 
 Application features:
 - managing user's daily finances
